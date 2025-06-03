@@ -29,9 +29,9 @@ Este projeto foi desenvolvido com o objetivo de simular um cenário real de vend
 📁 ecommerce-analise
 ├── data/                      
 ├── script/
-│   └── gerar_dados.py         # Script Python com geração e inserção no banco
+│   └── gerar_dados.py         
 ├── dashboard/
-│   └── ecommerce_dashboard.pbix  # Relatório Power BI finalizado
+│   └── ecommerce_dashboard.pbix  
 ├── imagens/
-│   └── dashboard.png          # Print do dashboard
-├── README.md                  # Este arquivo
+│   └── dashboard.png          
+├── README.md                  
