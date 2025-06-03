@@ -27,7 +27,7 @@ Este projeto foi desenvolvido com o objetivo de simular um cenário real de vend
 
 ```text
 📁 ecommerce-analise
-├── data/                      # (opcional) dados em CSV para consulta rápida
+├── data/                      
 ├── script/
 │   └── gerar_dados.py         # Script Python com geração e inserção no banco
 ├── dashboard/
